@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected styling behavior.  For example, if you have an inline style that conflicts with an ID selector, the inline style will win, even if the ID selector seems more specific. This can be difficult to debug because it's not always obvious which style is overriding another.
