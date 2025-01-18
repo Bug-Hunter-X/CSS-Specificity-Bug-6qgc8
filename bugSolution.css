@@ -1,0 +1,7 @@
+/* bugSolution.css */
+#myElement {
+  color: blue; /*Increased specificity by adding more selectors if needed*/
+  font-weight: bold;
+}
+
+/*Removing inline styles fixes the issue*/
